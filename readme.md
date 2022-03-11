@@ -3,7 +3,7 @@ I'm an aspiring software developer. I love to code and learn new things, i am op
 
 :mailbox: Reach me out!
 
-[![Mail Badge](https://img.shields.io/badge/-sauravkc27-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sauravkc27@gmail.com)  [![Linkedin Badge](https://img.shields.io/badge/-Saurav-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/skc27)  [![Mail Badge](https://img.shields.io/badge/-Youtube-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
+[![Mail Badge](https://img.shields.io/badge/-sauravkc27-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sauravkc27@gmail.com)  [![Linkedin Badge](https://img.shields.io/badge/-Saurav-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skc27/)  [![Mail Badge](https://img.shields.io/badge/-Youtube-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
 
  [![Instagram Badge](https://img.shields.io/badge/-@Sauravkc27-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/Sauravkc27) 
 [![Twitter Badge](https://img.shields.io/twitter/url?logoColor=r&style=social&url=https%3A%2F%2Ftwitter.com%2FSkaii_27)](https://twitter.com/Skaii_27) 
