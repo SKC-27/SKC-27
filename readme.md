@@ -11,12 +11,18 @@ I'm an aspiring software developer. I love to code and learn new things, i am op
 - 🎒 I am a junior at St Joseph College (Brooklyn,NY) majoring in  Computer Science and Mathematics.
 - 😀  I am interested in app development and i am currently learning new languages.
 - 😎 I am looking for an internship or projects to work on and learn new things
-- 😤 Plan for this summer: Learn machine learning and make projects relarted to it.
+- 😤 Plan for this summer: Learn machine learning and make projects related to it.
 
 ### Languages i am familiar with:
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)   [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 
 [![HTMl Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white(#))](#) [![MYSQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#)   [![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](#)
+
+
+### My Most used Languages:
+[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
+
+
 
 ### Profile Visits:
 ![GitHub Views](https://komarev.com/ghpvc/?username=55)
